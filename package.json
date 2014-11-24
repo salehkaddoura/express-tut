@@ -1,0 +1,10 @@
+{
+  "name": "expresstut",
+  "description": "First Express App",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.2",
+    "hbs": "*"
+  }
+}
